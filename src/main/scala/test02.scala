@@ -10,6 +10,11 @@ object test02 {
     println(("hello")+1+1)
     println(("hello")+1+1)
     println(("hello")+1+1)
+    println(("hello")+1+1)
+    println(("hello")+1+1)
+    println(("hello")+1+1)
+    println(("hello")+1+1)
+    println(("hello")+1+1)
 
   }
 }
